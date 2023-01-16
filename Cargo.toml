@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "kanban-min-api",
+    "kanban-min-term",
+    "kanban-min-desk",
+]
